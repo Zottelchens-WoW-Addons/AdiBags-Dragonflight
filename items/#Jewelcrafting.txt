@@ -1,5 +1,5 @@
-!Crafting Reagents of the "Jewelcrafting" category
-#Crafting Reagents of the "Jewelcrafting" category
+!Crafting Reagents of the 'Jewelcrafting' category
+#Crafting Reagents of the 'Jewelcrafting' category
 $514DFA
 192833
 192834

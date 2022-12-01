@@ -1,5 +1,5 @@
-!Crafting Reagents of the "Mining" category
-#Crafting Reagents of the "Mining" category
+!Crafting Reagents of the 'Mining' category
+#Crafting Reagents of the 'Mining' category
 $898396
 188658
 189143

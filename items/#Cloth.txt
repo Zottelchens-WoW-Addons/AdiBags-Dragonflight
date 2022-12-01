@@ -1,5 +1,5 @@
-!Crafting Reagents of the "Cloth" category
-#Crafting Reagents of the "Cloth" category
+!Crafting Reagents of the 'Cloth' category
+#Crafting Reagents of the 'Cloth' category
 $FF7E00
 192095
 192096
