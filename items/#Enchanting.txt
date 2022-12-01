@@ -1,0 +1,8 @@
+!Crafting Reagents of the "Enchanting" category
+#Crafting Reagents of the "Enchanting" category
+$96FF00
+193057
+194123
+194124
+200113
+201584

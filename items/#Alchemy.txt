@@ -1,0 +1,6 @@
+!Crafting Reagents of the "Alchemy" category (flasks only, you may also want to enable Herbs) 
+#Crafting Reagents of the "Alchemy" category 
+$91FFE9 
+191474 
+191475 
+191476 
