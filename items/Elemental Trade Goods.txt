@@ -1,6 +1,6 @@
 !Awakened and Rousing Elemental Trade Goods
 #Awakened and Rousing Elemental Trade Goods
-$0600FF
+$644BFF
 190315
 190316
 190320
