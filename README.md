@@ -10,5 +10,6 @@
 - Elemental Trade Goods (Version 1.1.7+)
 - Reputation Items [Renown Tokens, Wration/Sabellian] (Version 1.1.8+)
 - Food (Version 1.1.9+)
+- Potions [includes Elixirs & Flasks] (Version 1.1.9+)
 
 If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchen/adibags-dragonflight/issues).
