@@ -8,7 +8,7 @@
 - Drakewatcher Manusscripts (Version 1.1.6+)
 - Profession Knowledge Items (Version 1.1.6+)
 - Elemental Trade Goods (Version 1.1.7+)
-- Reputation Items [Renown Tokens, Wration/Sabellian] (Version 1.1.8+)
+- Reputation Items [Renown Tokens, Wrathion/Sabellian] (Version 1.1.8+)
 - Food (Version 1.1.9+)
 - Potions [includes Elixirs & Flasks] (Version 1.1.9+)
 
