@@ -1,0 +1,10 @@
+!Awakened Elemental Trade Goods (use this OR the combined category)
+#Awakened Elemental Trade Goods (use this OR the combined category)
+$644BFF
+190316
+190321
+190324
+190327
+190329
+190331
+190450

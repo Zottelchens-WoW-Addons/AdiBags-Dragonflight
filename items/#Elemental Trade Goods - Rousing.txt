@@ -1,0 +1,10 @@
+!Rousing Elemental Trade Goods (use this OR the combined category)
+#Rousing Elemental Trade Goods (use this OR the combined category)
+$644BFF
+190315
+190320
+190322
+190326
+190328
+190330
+190451
