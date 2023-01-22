@@ -1,0 +1,26 @@
+filter_name = "Dragonflight"
+filter_description = "Items from the Dragonflight expansion."
+filter_author = "Zottelchen"
+prefixes = [
+    "DF",
+    "DF-",
+    "9.",
+    "icon:4734167",
+    "icon:236469",
+    "icon:236473",
+    "icon:236471",
+    "icon:236472",
+    "icon:4640486",
+    "icon:4397694",
+    "icon:4397691",
+    "icon:4397692",
+    "icon:186844",
+    "icon:191386",
+]
+
+[replacers]
+ADDON_COLOR = 0xA00000
+TOC_VERSION = "100002"
+CURSE_ID = "662103"
+WAGO_ID = "kRNLXYNo"
+WOW_INTERFACE_ID = "26470"

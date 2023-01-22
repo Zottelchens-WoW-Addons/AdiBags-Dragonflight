@@ -1,0 +1,17 @@
+category_name = "Elemental Trade Goods"
+category_color = 0x644BFF
+category_description = { _ = "Awakened and Rousing Elemental Trade Goods" }
+mergeable = true
+merged_by_default = true
+
+[awakened]
+name = "Awakened Elementals"
+description = { _ = "Awakened Elementals" }
+color = 0x644BFF
+items = [190316, 190321, 190324, 190327, 190329, 190331, 190450]
+
+[rousing]
+name = "Rousing Elementals"
+description = { _ = "Rousing Elementals" }
+color = 0x644BFF
+items = [190315, 190320, 190322, 190326, 190328, 190330, 190451]

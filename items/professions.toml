@@ -1,0 +1,372 @@
+category_name = "Professions"
+category_color = 0xA36F6F
+category_description = { _ = "Items in professions" }
+mergeable = true
+merged_by_default = false
+
+[alchemy]
+name = "Alchemy Flasks"
+description = { _ = "Crafting Reagents categorically belonging to Alchemy" }
+enabled_by_default = false
+color = 0x91FFE9
+items = [191474, 191475, 191476]
+
+[cloth]
+name = "Cloth"
+description = { _ = "Crafting Reagents categorically belonging to Cloth" }
+enabled_by_default = false
+color = 0xFF7E00
+items = [
+    192095,
+    192096,
+    192097,
+    193050,
+    193053,
+    193922,
+    193923,
+    193924,
+    193925,
+    193926,
+    193927,
+    193928,
+    193929,
+    193930,
+    193931,
+    193932,
+    193933,
+    193934,
+    193935,
+    193936,
+    193937,
+    193938,
+    193939,
+    193940,
+]
+
+[cooking]
+name = "Cooking"
+description = { _ = "Crafting Reagents categorically belonging to Cooking" }
+enabled_by_default = false
+color = 0xFF0072
+items = [
+    194730,
+    194966,
+    194967,
+    194968,
+    194969,
+    194970,
+    197741,
+    197742,
+    197743,
+    197744,
+    197745,
+    197746,
+    197747,
+    197748,
+    197749,
+    197750,
+    197751,
+    197752,
+    197753,
+    197754,
+    197755,
+    197756,
+    197757,
+    198395,
+    199063,
+    199100,
+    199101,
+    199102,
+    199103,
+    199104,
+    199105,
+    199106,
+    199205,
+    199207,
+    199208,
+    199212,
+    199213,
+    199344,
+    199345,
+    199346,
+    199832,
+    199833,
+    199834,
+    199835,
+    200061,
+    200074,
+]
+
+[enchanting]
+name = "Enchanting"
+description = { _ = "Crafting Reagents categorically belonging to Enchanting" }
+enabled_by_default = false
+color = 0x96FF00
+items = [193057, 194123, 194124, 200113, 201584]
+
+[engineering]
+name = "Engineering"
+description = { _ = "Crafting Reagents categorically belonging to Engineering" }
+enabled_by_default = false
+color = 0x787878
+items = [
+    198183,
+    198184,
+    198185,
+    198186,
+    198187,
+    198188,
+    198189,
+    198190,
+    198191,
+    198192,
+    198193,
+    198194,
+    198195,
+    198196,
+    198197,
+    198198,
+    198199,
+    198200,
+    198201,
+    198202,
+    198203,
+    201832,
+]
+
+[herbs]
+name = "Herbs"
+description = { _ = "Crafting Reagents categorically belonging to Herbs" }
+enabled_by_default = false
+color = 0x00FF36
+items = [
+    191460,
+    191461,
+    191462,
+    191464,
+    191465,
+    191466,
+    191467,
+    191468,
+    191469,
+    191470,
+    191471,
+    191472,
+]
+
+[inscription]
+name = "Inscription"
+description = { _ = "Crafting Reagents categorically belonging to Inscription" }
+enabled_by_default = false
+color = 0x4DFAF8
+items = [
+    194751,
+    194752,
+    194754,
+    194755,
+    194756,
+    194758,
+    194760,
+    194761,
+    194767,
+    194768,
+    194784,
+    194824,
+    194825,
+    194826,
+    194846,
+    194850,
+    194852,
+    194855,
+    194856,
+    194857,
+    194858,
+    194859,
+    194862,
+    194863,
+    194864,
+    198412,
+    198413,
+    198414,
+    198415,
+    198416,
+    198417,
+    198418,
+    198419,
+    198420,
+    198421,
+    198422,
+    198423,
+]
+
+[jewelcrafting]
+name = "Jewelcrafting"
+description = { _ = "Crafting Reagents categorically belonging to Jewelcrafting" }
+enabled_by_default = false
+color = 0x514DFA
+items = [
+    192833,
+    192834,
+    192835,
+    192836,
+    192837,
+    192838,
+    192839,
+    192840,
+    192841,
+    192842,
+    192843,
+    192844,
+    192845,
+    192846,
+    192847,
+    192848,
+    192849,
+    192850,
+    192851,
+    192852,
+    192853,
+    192855,
+    192856,
+    192857,
+    192858,
+    192859,
+    192860,
+    192861,
+    192862,
+    192863,
+    192865,
+    192866,
+    192867,
+    192868,
+    192869,
+    192870,
+    192871,
+    192872,
+    192876,
+    192877,
+    192878,
+    192880,
+    192883,
+    192884,
+    192885,
+    192888,
+    192889,
+    192890,
+    192891,
+    192892,
+    192893,
+    192894,
+    192895,
+    192896,
+    192897,
+    192898,
+    192899,
+    193029,
+    193030,
+    193031,
+    193368,
+    193369,
+    193370,
+    198397,
+    200156,
+    202048,
+    202049,
+    202050,
+    202051,
+    202052,
+    202053,
+    202054,
+    202055,
+    202056,
+    202057,
+    202058,
+    202059,
+]
+
+[leather]
+name = "Leather"
+description = { _ = "Crafting Reagents categorically belonging to Leather" }
+enabled_by_default = false
+color = 0x865B00
+items = [
+    193208,
+    193210,
+    193211,
+    193213,
+    193214,
+    193215,
+    193216,
+    193217,
+    193218,
+    193222,
+    193223,
+    193224,
+    193226,
+    193227,
+    193228,
+    193229,
+    193230,
+    193231,
+    193232,
+    193233,
+    193234,
+    193236,
+    193237,
+    193238,
+    193239,
+    193240,
+    193241,
+    193242,
+    193243,
+    193244,
+    193245,
+    193246,
+    193247,
+    193248,
+    193249,
+    193250,
+    193251,
+    193252,
+    193253,
+    193254,
+    193255,
+    193256,
+    193258,
+    193259,
+    193261,
+    193262,
+    197735,
+    197736,
+]
+
+[mining]
+name = "Mining"
+description = { _ = "Crafting Reagents categorically belonging to Mining" }
+enabled_by_default = false
+color = 0x898396
+items = [
+    188658,
+    189143,
+    189541,
+    189542,
+    189543,
+    190311,
+    190312,
+    190313,
+    190314,
+    190394,
+    190395,
+    190396,
+    190452,
+    190530,
+    190531,
+    190532,
+    190533,
+    190534,
+    190535,
+    190536,
+    190537,
+    190538,
+    194545,
+]

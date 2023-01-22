@@ -1,0 +1,71 @@
+category_name = "PreEvent"
+category_color = 0x644BFF
+category_description = { _ = "Items from the Dragonflight Pre-Event." }
+mergeable = true
+merged_by_default = false
+
+[currency]
+name = "PreEvent Currency"
+description = { _ = "Currency-like items dropped in the Dragonflight Pre-Patch Event" }
+color = 0x0060A2
+items = [199211, 199836, 199837, 199838, 199839]
+
+[gear]
+name = "PreEvent Gear"
+description = { _ = "Gear dropped or bought in the Dragonflight Pre-Patch Event" }
+color = 0x0050A2
+items = [
+    199348,
+    199349,
+    199350,
+    199351,
+    199352,
+    199353,
+    199354,
+    199355,
+    199356,
+    199357,
+    199358,
+    199359,
+    199360,
+    199361,
+    199362,
+    199363,
+    199364,
+    199365,
+    199366,
+    199367,
+    199368,
+    199369,
+    199370,
+    199371,
+    199372,
+    199373,
+    199374,
+    199375,
+    199376,
+    199377,
+    199378,
+    199379,
+    199380,
+    199381,
+    199382,
+    199383,
+    199384,
+    199385,
+    199386,
+    199399,
+    199400,
+    199401,
+    199402,
+    199403,
+    199404,
+    199405,
+    199406,
+    199407,
+    199408,
+    199409,
+    199416,
+    199555,
+    199645,
+]

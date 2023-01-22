@@ -1,8 +1,0 @@
-!Currency-like items dropped in the Dragonflight Pre-Patch Event
-#Currency-like items dropped in the Dragonflight Pre-Patch Event
-$0060A2
-199211
-199836
-199837
-199838
-199839
