@@ -354,6 +354,12 @@ items = [
     197736,
 ]
 
+[bait]
+name = "Leather - Bait"
+description = { _ = "Baits to attract skinnable creatures" }
+color = 0xF4F1DE
+items = [193906, 198404, 198804, 198805, 198806, 198807]
+
 [mining]
 name = "Mining"
 description = { _ = "Crafting Reagents categorically belonging to Mining" }
