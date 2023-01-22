@@ -104,6 +104,13 @@ enabled_by_default = false
 color = 0x96FF00
 items = [193057, 194123, 194124, 200113, 201584]
 
+[enchanting_mystic]
+name = "Enchanting - Insight of the Blue"
+description = { _ = "Items that can be found & disenchanted when 'Insight of the Blue' (Enchanting Perk) is skilled." }
+enabled_by_default = false
+color = 0x96FF00
+items = [200939, 200940, 200941, 200942, 200943, 200945, 200946, 200947]
+
 [engineering]
 name = "Engineering"
 description = { _ = "Crafting Reagents categorically belonging to Engineering" }
