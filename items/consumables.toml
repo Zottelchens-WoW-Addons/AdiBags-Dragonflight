@@ -7,7 +7,7 @@ merged_by_default = false
 
 [craftingpotions]
 name = "Crafting Potions"
-description = { _ = "Potions which improve crafting" }
+description = { _ = "Potions which improve crafting or collecting" }
 color = 0xEBB134
 items = [
     191342,
@@ -57,7 +57,6 @@ name = "Bandages"
 description = { _ = "Bandages, to patch up your broken friends :)" }
 color = 0xAB3428
 items = [194048, 194049, 194050]
-
 
 [food]
 name = "Food"
@@ -289,4 +288,19 @@ items = [
     201428,
     201436,
     201438,
+]
+
+[cauldrons]
+name = "Cauldrons"
+description = { _ = "Cauldrons, to share your soup with friends :)" }
+color = 0x07393C
+items = [191482,
+191483,
+191484,
+191485,
+191486,
+191487,
+191488,
+191489,
+191490,
 ]
