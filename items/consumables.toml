@@ -299,5 +299,27 @@ items = [191482, 191483, 191484, 191485, 191486, 191487, 191488, 191489, 191490]
 [incense]
 name = "Incense"
 description = { _ = "Incense to improve crafting ability or just for a nice smell" }
-color = 0x07393C
+color = 0xF4F1DE
 items = [191482, 191483, 191484, 191485, 191486, 191487, 191488, 191489, 191490]
+
+[contract]
+name = "Contracts"
+description = { _ = "Contracts give additional reputation when completing world quests in the Dragon Isles." }
+color = 0xF2CC8F
+items = [
+    198494,
+    198495,
+    198496,
+    198497,
+    198498,
+    198499,
+    198500,
+    198501,
+    198502,
+    198503,
+    198504,
+    198505,
+    198506,
+    198507,
+    198508,
+]
