@@ -1,0 +1,24 @@
+category_name = "Achievements & Unlockables"
+category_color = 0xF7CB15
+category_description = { _ = "Items which are used for achievements or unlockable mounts. Most of them lose their value, once the achievement or mount is unlocked." }
+mergeable = true
+merged_by_default = false
+
+[lizi]
+name = "Lizis Reins (Mount)"
+description = { _ = "A mount that can be unlocked in Ohn'iri Springs in the Ohn'ahran Plains. Requires to hand in one of these items once a day." }
+color = 0x878E88
+items = [192615, 192658, 194966, 192636, 200598]
+
+[honor]
+name = "Honor Our Ancestors"
+description = { _ = "CONTAINS ITEMS FROM OTHER CATEGORIES! These items can be handed in the Ohn'ahran Plains (while under the effect of Essence of Awakening) to get this achievement." }
+color = 0x76BED0
+enabled_by_default = false
+items = [191471, 197776, 200018, 194690, 202070, 193470, 190327, 197788, 199049]
+
+[temperamental_skyclaw]
+name = "Temperamental Skyclaw (Mount)"
+description = { _ = "To get Temperamental Skyclaw you have to collect these 3 types of food and turn it to Zon'Wogi Stable Master at Three-Falls Lookout (Azure Span)" }
+color = 0xF55D3E
+items = [201420, 201421, 201422]
