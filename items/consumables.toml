@@ -294,13 +294,10 @@ items = [
 name = "Cauldrons"
 description = { _ = "Cauldrons, to share your soup with friends :)" }
 color = 0x07393C
-items = [191482,
-191483,
-191484,
-191485,
-191486,
-191487,
-191488,
-191489,
-191490,
-]
+items = [191482, 191483, 191484, 191485, 191486, 191487, 191488, 191489, 191490]
+
+[incense]
+name = "Incense"
+description = { _ = "Incense to improve crafting ability or just for a nice smell" }
+color = 0x07393C
+items = [191482, 191483, 191484, 191485, 191486, 191487, 191488, 191489, 191490]
