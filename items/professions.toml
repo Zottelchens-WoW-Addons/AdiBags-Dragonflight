@@ -9,7 +9,7 @@ name = "Alchemy Flasks"
 description = { _ = "Crafting Reagents categorically belonging to Alchemy" }
 enabled_by_default = false
 color = 0x91FFE9
-items = [191474, 191475, 191476]
+items = [191474, 191475, 191476, 198265]
 
 [fishinglures]
 name = "Fishing Lures"
