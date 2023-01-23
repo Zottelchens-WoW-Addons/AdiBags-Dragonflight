@@ -341,3 +341,22 @@ items = [
     198836,
     201325,
 ]
+
+[runes]
+name = "Runes"
+description = { _ = "Contains runes & vantus runes which improving your combat ability." }
+color = 0x9BC53D
+items = [
+    194817,
+    194819,
+    194820,
+    194821,
+    194822,
+    194823,
+    194824,
+    194825,
+    194826,
+    198491,
+    198492,
+    198493,
+]
