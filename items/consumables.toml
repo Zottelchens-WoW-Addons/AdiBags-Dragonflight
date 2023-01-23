@@ -360,3 +360,25 @@ items = [
     198492,
     198493,
 ]
+
+[statues]
+name = "Statues"
+description = { _ = "Statues crafted by Jewelcrafters. They improve various things." }
+color = 0x36494E
+items = [
+    193007,
+    193008,
+    193009,
+    193011,
+    193012,
+    193013,
+    193015,
+    193016,
+    193017,
+    193019,
+    193020,
+    193021,
+    194723,
+    194724,
+    194725,
+]
