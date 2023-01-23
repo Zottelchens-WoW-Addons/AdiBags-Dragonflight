@@ -168,6 +168,13 @@ items = [
     191472,
 ]
 
+[seeds]
+name = "Herbs - Seeds"
+description = { _ = "Seeds to plant into Rich Soil which in return grants some herbs" }
+enabled_by_default = false
+color = 0xBFFFBC
+items = [200506, 200507, 200508, 200509]
+
 [inscription]
 name = "Inscription"
 description = { _ = "Crafting Reagents categorically belonging to Inscription" }
@@ -357,6 +364,7 @@ items = [
 [bait]
 name = "Leather - Bait"
 description = { _ = "Baits to attract skinnable creatures" }
+enabled_by_default = false
 color = 0xF4F1DE
 items = [193906, 198404, 198804, 198805, 198806, 198807]
 
