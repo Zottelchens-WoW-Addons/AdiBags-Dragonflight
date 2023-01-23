@@ -28,3 +28,9 @@ name = "Magmashell (Mount)"
 description = { _ = "This category only contains the Empty Magma Shell required to get the Magmashell Mount in the Waking Shores." }
 color = 0xFF8C61
 items = [201883]
+
+[slumbering_worldsnail]
+name = "Scrappy Worldsnail (Mount)"
+description = { _ = "This category only contains the Membership and the Magmotes required to get the Scrappy Worldsnail Mount in the Waking Shores." }
+color = 0xCE6A85
+items = [199215, 202173]
