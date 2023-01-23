@@ -19,6 +19,12 @@ items = [191471, 197776, 200018, 194690, 202070, 193470, 190327, 197788, 199049]
 
 [temperamental_skyclaw]
 name = "Temperamental Skyclaw (Mount)"
-description = { _ = "To get Temperamental Skyclaw you have to collect these 3 types of food and turn it to Zon'Wogi Stable Master at Three-Falls Lookout (Azure Span)" }
+description = { _ = "To get Temperamental Skyclaw you have to collect these 3 types of food and turn it to Zon'Wogi Stable Master at Three-Falls Lookout (Azure Span)." }
 color = 0xF55D3E
 items = [201420, 201421, 201422]
+
+[magmashell]
+name = "Magmashell (Mount)"
+description = { _ = "This category only contains the Empty Magma Shell required to get the Magmashell Mount in the Waking Shores." }
+color = 0xFF8C61
+items = [201883]
