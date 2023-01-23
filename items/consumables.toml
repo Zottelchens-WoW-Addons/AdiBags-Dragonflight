@@ -300,7 +300,20 @@ items = [191482, 191483, 191484, 191485, 191486, 191487, 191488, 191489, 191490]
 name = "Incense"
 description = { _ = "Incense to improve crafting ability or just for a nice smell" }
 color = 0xF4F1DE
-items = [191482, 191483, 191484, 191485, 191486, 191487, 191488, 191489, 191490]
+items = [
+    191499,
+    191500,
+    191501,
+    191502,
+    191503,
+    191504,
+    191505,
+    191506,
+    191507,
+    191508,
+    191509,
+    191510,
+]
 
 [contract]
 name = "Contracts"
