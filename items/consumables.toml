@@ -197,10 +197,10 @@ items = [
     202108,
 ]
 
-[potions]
-name = "Potions & Elixirs"
-description = { _ = "Potions added in the Dragonflight expansion" }
-color = 0xEBB134
+[phials]
+name = "Phials"
+description = { _ = "Phials added in the Dragonflight expansion" }
+color = 0xD295BF
 items = [
     191318,
     191319,
@@ -229,12 +229,19 @@ items = [
     191348,
     191349,
     191350,
-    191351,
-    191352,
-    191353,
     191357,
     191358,
     191359,
+]
+
+[potions]
+name = "Potions"
+description = { _ = "Potions added in the Dragonflight expansion" }
+color = 0xEBB134
+items = [
+    191351,
+    191352,
+    191353,
     191360,
     191361,
     191362,
@@ -281,13 +288,7 @@ items = [
     191913,
     191914,
     194337,
-    195580,
-    198442,
-    200121,
-    201427,
-    201428,
-    201436,
-    201438,
+
 ]
 
 [cauldrons]
@@ -352,6 +353,13 @@ items = [
     198277,
     198836,
     201325,
+    195580,
+    198442,
+    200121,
+    201427,
+    201428,
+    201436,
+    201438,
 ]
 
 [runes]
