@@ -323,3 +323,21 @@ items = [
     198507,
     198508,
 ]
+
+[tools]
+name = "Tools"
+description = { _ = "Contains various tools, helpful in the Dragon Isles." }
+color = 0xAD5D4E
+items = [
+    191256,
+    193470,
+    198250,
+    198251,
+    198252,
+    198275,
+    198276,
+    198277,
+    198614,
+    198836,
+    201325,
+]
