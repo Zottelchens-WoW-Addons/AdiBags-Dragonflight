@@ -14,7 +14,7 @@ items = [191474, 191475, 191476, 198265]
 [fishinglures]
 name = "Fishing Lures"
 description = { _ = "Fishing Lures for catching specific fish" }
-enabled_by_default = true
+enabled_by_default = false
 color = 0x40BCD8
 items = [193893, 193894, 193895, 193896, 198401, 198403]
 
