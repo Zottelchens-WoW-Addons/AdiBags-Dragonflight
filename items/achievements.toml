@@ -37,7 +37,7 @@ items = [199215, 202173]
 
 [the_way_to_an_ottos_heart]
 name = "Otto (Mount)"
-description = "This section contains items which are needed to unlock Otto, the fishing ottusk mount."
+description = { _ = "This section contains items which are needed to unlock Otto, the fishing ottusk mount." }
 color = 0x1d24e2
 ids = [
     199338,
@@ -54,6 +54,6 @@ ids = [
 
 [tetrachromancer]
 name = "Tetrachromancer (Achievement)"
-description = "This category contains hunting companion colors needed for the achievement."
+description = { _ = "This category contains hunting companion colors needed for the achievement." }
 color = 0xFCCCBF
 ids = [193205, 194087, 194088, 194089, 194090, 194091, 194093, 194094, 194095]
