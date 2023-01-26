@@ -50,4 +50,10 @@ ids = [
     202073,
     202074,
     202102,
-]
+]
+
+[tetrachromancer]
+name = "Tetrachromancer (Achievement)"
+description = "This category contains hunting companion colors needed for the achievement."
+color = 0xFCCCBF
+ids = [193205, 194087, 194088, 194089, 194090, 194091, 194093, 194094, 194095]
