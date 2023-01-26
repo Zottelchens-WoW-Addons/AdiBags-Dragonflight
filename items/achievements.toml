@@ -39,7 +39,7 @@ items = [199215, 202173]
 name = "Otto (Mount)"
 description = { _ = "This section contains items which are needed to unlock Otto, the fishing ottusk mount." }
 color = 0x1d24e2
-ids = [
+items = [
     199338,
     199340,
     202061,
@@ -56,4 +56,4 @@ ids = [
 name = "Tetrachromancer (Achievement)"
 description = { _ = "This category contains hunting companion colors needed for the achievement." }
 color = 0xFCCCBF
-ids = [193205, 194087, 194088, 194089, 194090, 194091, 194093, 194094, 194095]
+items = [193205, 194087, 194088, 194089, 194090, 194091, 194093, 194094, 194095]
