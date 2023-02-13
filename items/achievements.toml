@@ -41,6 +41,7 @@ description = { _ = "This section contains items which are needed to unlock Otto
 color = 0x1d24e2
 items = [
     199338,
+    199339,
     199340,
     202061,
     202066,
