@@ -344,6 +344,7 @@ description = { _ = "Contains various tools, helpful in the Dragon Isles." }
 color = 0xAD5D4E
 items = [
     191256,
+    191304,
     193470,
     198250,
     198251,
