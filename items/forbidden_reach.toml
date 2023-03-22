@@ -1,0 +1,153 @@
+category_name = "Forbidden Reach (10.0.7)"
+category_color = 0x00FF42
+category_description = { _ = "Items which can be found and used in the Forbidden Reach." }
+mergeable = true
+merged_by_default = false
+
+[primordial_stones]
+name = "Primordial Stones & Onyx Annulet"
+description = { _ = "This category contains Primordial Stones, which can be inserted into the Onyx Annulet and the Annulet itself." }
+color = 0xB35000
+items = [
+    203460,
+    203702,
+    203703,
+    204000,
+    204001,
+    204002,
+    204003,
+    204004,
+    204005,
+    204006,
+    204007,
+    204009,
+    204010,
+    204011,
+    204012,
+    204013,
+    204014,
+    204015,
+    204018,
+    204019,
+    204020,
+    204021,
+    204022,
+    204025,
+    204027,
+    204029,
+    204030,
+    204215,
+    204217,
+    204573,
+    204574,
+    204575,
+    204576,
+    204577,
+    204578,
+    204579,
+]
+
+[primalist_gear]
+name = "Primalist Gear Tokens"
+description = { _ = "Primalist Gear Tokens is an account wide Catch-Up Gear." }
+color = 0x7A00B3
+items = [
+    203611,
+    203612,
+    203613,
+    203614,
+    203615,
+    203616,
+    203617,
+    203618,
+    203619,
+    203620,
+    203622,
+    203623,
+    203626,
+    203627,
+    203628,
+    203629,
+    203630,
+    203631,
+    203632,
+    203633,
+    203634,
+    203635,
+    203636,
+    203637,
+    203638,
+    203639,
+    203640,
+    203641,
+    203642,
+    203643,
+    203644,
+    203645,
+    203646,
+    203647,
+    203648,
+    203649,
+    203650,
+    204276,
+]
+
+[artifacts]
+name = "Artifacts"
+description = { _ = "These artifacts can be traded in Morqut Village." }
+color = 0x007EB3
+items = [202854, 202870, 202871, 202872]
+
+
+[artisan_curious]
+name = "Artisan Curious"
+description = { _ = "These items can be used to summon a rare mob in the Forbidden Reach." }
+color = 0x2200B3
+items = [
+    203398,
+    203399,
+    203400,
+    203401,
+    203402,
+    203403,
+    203404,
+    203405,
+    203406,
+    203407,
+    203408,
+    203409,
+    203410,
+    203411,
+    203412,
+    203413,
+    203414,
+    203415,
+    203416,
+    203417,
+    203418,
+    203419,
+]
+
+[mossy_mammoth]
+name = "Mossy Mammoth"
+description = { _ = "These items can be found in the Zskera Vault and are used to create the Mossy Mammoth." }
+color = 0x007010
+items = [
+    192790,
+    204360,
+    204363,
+    204364,
+    204366,
+    204367,
+    204369,
+    204371,
+    204372,
+    204374,
+    204375,
+]
+
+[zskera_vault]
+name = "Zskera Vault"
+description = { _ = "Items found or used in the Zskera Vault." }
+color = 0xFF5A00
+items = [202196, 203701, 203704, 203705, 203718, 203720, 204199]
