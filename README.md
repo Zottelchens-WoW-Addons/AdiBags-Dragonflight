@@ -41,4 +41,13 @@
 - Statues
 - and with 2.0.2 Phials and Potions are now separated
 
+**Version 2.1.3 added the Forbidden Reach (Patch 10.0.7) items:**
+
+- Primordial Stones
+- Primalist Gear
+- Artifacts
+- Artisan Curious
+- Mossy Mammoth
+- Zskera Vault
+
 If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchen/adibags-dragonflight/issues).
