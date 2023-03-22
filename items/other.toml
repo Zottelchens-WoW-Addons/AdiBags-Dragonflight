@@ -368,6 +368,48 @@ items = [
     199170,
 ]
 
+[primordialstones]
+name = "Primordial Stones"
+description = { _ = "Primordial Stones for the Onyx Annulet" }
+color = 0x48AA00
+
+items = [
+    # Gems
+    204000,
+    204001,
+    204002,
+    204003,
+    204004,
+    204005,
+    204006,
+    204007,
+    204009,
+    204010,
+    204011,
+    204012,
+    204013,
+    204014,
+    204015,
+    204018,
+    204019,
+    204020,
+    204021,
+    204022,
+    204025,
+    204027,
+    204029,
+    204030,
+    # Components
+    204215,
+    204573,
+    204574,
+    204575,
+    204576,
+    204577,
+    204578,
+    204579,
+]
+
 [reputation_items]
 name = "Reputation Items"
 description = { _ = "Contains Items which can be directly traded in for reputation/renown, as well as items needed for Wrathion & Sabellian" }
