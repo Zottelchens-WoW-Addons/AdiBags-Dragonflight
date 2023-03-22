@@ -368,7 +368,7 @@ items = [
     199170,
 ]
 
-[primordialstones]
+[primordial_stones]
 name = "Primordial Stones"
 description = { _ = "Primordial Stones for the Onyx Annulet" }
 color = 0x48AA00
