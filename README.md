@@ -47,7 +47,8 @@
 - Primalist Gear
 - Artifacts
 - Artisan Curious
-- Mossy Mammoth
+- Mossy Mammoth (Mount)
+- Librarian of the Reach (Achievement)
 - Zskera Vault
 
 If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchen/adibags-dragonflight/issues).

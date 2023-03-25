@@ -58,3 +58,9 @@ name = "Tetrachromancer (Achievement)"
 description = { _ = "This category contains hunting companion colors needed for the achievement." }
 color = 0xFCCCBF
 items = [193205, 194087, 194088, 194089, 194090, 194091, 194093, 194094, 194095]
+
+[librarian_of_the_reach]
+name = "Librarian of the Reach (Achievement)"
+description = { _ = "This category contains the books looted for the Librarian of the Reach achievement." }
+color = 0xE69AFF
+items = [204181, 204185, 204316, 204317, 204321, 204328, 204335, 204338, 204691]
