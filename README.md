@@ -49,6 +49,7 @@
 - Artisan Curious
 - Mossy Mammoth (Mount)
 - Librarian of the Reach (Achievement)
+- While we were Sleeping (Achievement) (2.2.1)
 - Zskera Vault
 
 If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchen/adibags-dragonflight/issues).
