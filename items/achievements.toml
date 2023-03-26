@@ -64,3 +64,26 @@ name = "Librarian of the Reach (Achievement)"
 description = { _ = "This category contains the books looted for the Librarian of the Reach achievement." }
 color = 0xE69AFF
 items = [204181, 204185, 204316, 204317, 204321, 204328, 204335, 204338, 204691]
+
+[while_we_were_sleeping]
+name = "While We Were Sleeping (Achievement)"
+description = { _ = "This category contains the quest items looted for the While We Were Sleeping achievement." }
+color = 0x00D441
+items = [
+    202203,
+    202326,
+    202327,
+    202328,
+    202329,
+    202335,
+    202336,
+    202337,
+    204200,
+    204221,
+    204223,
+    204246,
+    204250,
+    204251,
+    204252,
+    204253,
+]
