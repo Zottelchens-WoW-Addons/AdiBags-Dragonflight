@@ -47,57 +47,11 @@ items = [
     204579,
 ]
 
-[primalist_gear]
-name = "Primalist Gear Tokens"
-description = { _ = "Primalist Gear Tokens is an account wide Catch-Up Gear." }
-color = 0x7A00B3
-items = [
-    203611,
-    203612,
-    203613,
-    203614,
-    203615,
-    203616,
-    203617,
-    203618,
-    203619,
-    203620,
-    203622,
-    203623,
-    203626,
-    203627,
-    203628,
-    203629,
-    203630,
-    203631,
-    203632,
-    203633,
-    203634,
-    203635,
-    203636,
-    203637,
-    203638,
-    203639,
-    203640,
-    203641,
-    203642,
-    203643,
-    203644,
-    203645,
-    203646,
-    203647,
-    203648,
-    203649,
-    203650,
-    204276,
-]
-
 [artifacts]
 name = "Artifacts"
 description = { _ = "These artifacts can be traded in Morqut Village." }
 color = 0x007EB3
 items = [202854, 202870, 202871, 202872]
-
 
 [artisan_curious]
 name = "Artisan Curious"

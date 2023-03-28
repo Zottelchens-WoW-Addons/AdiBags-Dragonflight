@@ -1,0 +1,47 @@
+category_name = "Primalist Gear Tokens"
+category_color = 0x7A00B3
+category_description = { _ = "Primalist Gear Tokens is an account wide Catch-Up Gear." }
+mergeable = true
+merged_by_default = true
+
+[cloth]
+name = "Primalist Cloth"
+description = { _ = "Cloth Catch-Up Gear." }
+color = 0x00B358
+items = [203612, 203616, 203622, 203627, 203632, 203635, 203641, 203642]
+
+[leather]
+name = "Primalist Leather"
+description = { _ = "Leather Catch-Up Gear." }
+color = 0x00ADB3
+items = [203614, 203618, 203619, 203629, 203630, 203637, 203638, 203645]
+
+[mail]
+name = "Primalist Mail"
+description = { _ = "Mail Catch-Up Gear." }
+color = 0x007EB3
+items = [203613, 203617, 203620, 203628, 203631, 203636, 203639, 203644]
+
+[plate]
+name = "Primalist Plate"
+description = { _ = "Plate Catch-Up Gear." }
+color = 0x001DB3
+items = [203611, 203615, 203623, 203626, 203633, 203634, 203640, 203643]
+
+[weapon]
+name = "Primalist Weapon"
+description = { _ = "Catch-Up Weapon." }
+color = 0x2A00B3
+items = [203650]
+
+[accessories]
+name = "Primalist Accessories"
+description = { _ = "Catch-Up Accessories - contains Rings, Necklaces, Trinkets & Cloaks." }
+color = 0x5000B3
+items = [203646, 203647, 203648, 203649]
+
+[knowledge]
+name = "Untapped Forbidden Knowledge"
+description = { _ = "Contains Untapped Forbidden Knowledge, used for upgrading Primalist Gear." }
+color = 0xB100B3
+items = [204276]

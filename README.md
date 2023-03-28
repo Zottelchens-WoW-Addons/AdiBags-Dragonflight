@@ -44,7 +44,7 @@
 **Version 2.1.3 added the Forbidden Reach (Patch 10.0.7) items:**
 
 - Primordial Stones
-- Primalist Gear
+- Primalist Gear (splittable per armor type since 2.2.2)
 - Artifacts
 - Artisan Curious
 - Mossy Mammoth (Mount)
