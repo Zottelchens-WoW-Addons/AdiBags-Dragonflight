@@ -104,4 +104,16 @@ items = [
 name = "Zskera Vault"
 description = { _ = "Items found or used in the Zskera Vault." }
 color = 0xFF5A00
-items = [202196, 203701, 203704, 203705, 203718, 203720, 204199]
+items = [
+    202196,
+    203690,
+    203701,
+    203704,
+    203705,
+    203715,
+    203718,
+    203720,
+    204199,
+    204278,
+    204439,
+]
