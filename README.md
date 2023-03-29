@@ -53,3 +53,10 @@
 - Zskera Vault
 
 If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchen/adibags-dragonflight/issues).
+
+**A special thanks to the following people for their contributions in translating this addon:**
+
+- [RainbowUI](https://www.curseforge.com/members/rainbowui) & [mccma](https://www.curseforge.com/members/mccma) (Traditional Chinese)
+- [okaboo](https://www.curseforge.com/members/okaboo) (French)
+
+**If you want to contribute too, you can do so by submitting translations [directly on Curseforge](https://www.curseforge.com/wow/addons/adibags-dragonflight/localization).**
