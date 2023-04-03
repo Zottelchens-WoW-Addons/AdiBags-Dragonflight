@@ -87,3 +87,16 @@ items = [
     204252,
     204253,
 ]
+
+
+[chip_pet]
+name = "Chip (Pet)"
+description = { _ = "This category contains the items needed to get the Chip pet." }
+color = 0xDEFF00
+items = [198082, 198357, 199219]
+
+[phoenix_wishwing_pet]
+name = "Phoenix Wishwing (Pet)"
+description = { _ = "This category contains the items needed to get the Phoenix Wishwing pet." }
+color = 0xFF9600
+items = [199080, 199092, 199097, 199099, 199177, 199203, 202062]
