@@ -4,14 +4,31 @@ category_description = { _ = "Items which are used in multiple professions." }
 mergeable = false
 merged_by_default = false
 
+[item_level_upgrades]
+name = "Item Level Upgrades"
+description = { _ = "Items which upgrade the item level of crafted gear." }
+color = 0xBA00FF
+items = [
+    190453,
+    190455,
+    197921,
+    198046,
+    198048,
+    198056,
+    198058,
+    198059,
+    200686,
+    204673,
+    204681,
+    204682,
+    204697,
+]
+
 [general_crafting]
 name = "General Crafting Reagents"
 description = { _ = "General Crafting Reagents, used by multiple professions" }
 color = 0x51479C
 items = [
-    190453,
-    190454,
-    190455,
     190456,
     191493,
     191494,
@@ -20,14 +37,6 @@ items = [
     191497,
     191498,
     191529,
-    197921,
-    197921,
-    198046,
-    198048,
-    198056,
-    198058,
-    198059,
-    200686,
     200860,
     201399,
     201400,
@@ -338,4 +347,48 @@ items = [
     204231,
     204232,
     204632,
+]
+
+[embellishments]
+name = "Embellishments"
+description = { _ = "Items that provide embellishments to crafted items." }
+color = 0x06FF00
+items = [
+    191250,
+    191532,
+    191533,
+    191534,
+    191535,
+    191536,
+    191537,
+    191872,
+    191873,
+    193468,
+    193469,
+    193551,
+    193552,
+    193554,
+    193555,
+    193941,
+    193942,
+    193943,
+    193944,
+    193945,
+    193946,
+    198256,
+    198257,
+    198258,
+    200652,
+    203652,
+    204708,
+    204709,
+    204710,
+    204909,
+    205012,
+    205115,
+    205170,
+    205171,
+    205172,
+    205173,
+    205411,
 ]

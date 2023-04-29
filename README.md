@@ -37,7 +37,7 @@
   - Phoenix Wishling (Pet)
   - Mossy Mammoth (Mount)
   - Librarian of the Reach (Achievement)
-  - While we were Sleeping (Achievement) (2.2.1)
+  - While we were Sleeping (Achievement)
 - Ruby Feast (now seperate from the other food)
 - Incense
 - Contracts
@@ -45,10 +45,15 @@
 - Runes (including Vantus Runes)
 - Statues
 - Primordial Stones
-- Primalist Gear (splittable per armor type since 2.2.2)
+- Primalist Gear
 - Artifacts
 - Artisan Curious
 - Zskera Vault
+- Item Level Upgrades for craftable items
+- Shadowflame Crests
+- Cavern Currencies (like Bartering Stones)
+- Fyrak Assault
+- Embellishments
 
 If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchen/adibags-dragonflight/issues).
 
