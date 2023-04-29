@@ -1,5 +1,5 @@
 category_name = "Embers of Neltharion (10.1)"
-category_color = 0x00FF42
+category_color = 0xFFCC00
 category_description = { _ = "Items which can be found and used in the Zaralek Cavern." }
 mergeable = true
 merged_by_default = false
@@ -7,17 +7,17 @@ merged_by_default = false
 [shadowflame_crests]
 name = "Shadowflame Crests"
 description = { _ = "This category contains Shadowflame Crests, which can be used to upgrade gear." }
-color = 0xB35000
+color = 0xFF2400
 items = [204075, 204076, 204077, 204078, 204193, 204194, 204195, 204196]
 
 [cavern_currencies]
 name = "Cavern Currencies"
 description = { _ = "This category contains currencies, used in the Zaralek Cavern." }
-color = 0xB35000
+color = 0xFF7800
 items = [204715, 204985, 205188, 205247]
 
 [fyrak_assault]
 name = "Fyrak Assault"
 description = { _ = "This category contains fragments, used during the Fyrak Assault event." }
-color = 0xB35000
+color = 0xFF4800
 items = [203430, 203683, 203710]
