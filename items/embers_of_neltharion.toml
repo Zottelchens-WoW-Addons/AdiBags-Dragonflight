@@ -14,7 +14,7 @@ items = [204075, 204076, 204077, 204078, 204193, 204194, 204195, 204196]
 name = "Cavern Currencies"
 description = { _ = "This category contains currencies, used in the Zaralek Cavern." }
 color = 0xFF7800
-items = [204715, 204985, 205188, 205247, 205982, 205984]
+items = [204715, 204985, 205188, 205247, 205248, 205982, 205984]
 
 [fyrak_assault]
 name = "Fyrak Assault"
