@@ -61,5 +61,6 @@ If anything is missing, misplaced, or you want a new category, then please write
 
 - [RainbowUI](https://www.curseforge.com/members/rainbowui) & [mccma](https://www.curseforge.com/members/mccma) (Traditional Chinese)
 - [okaboo](https://www.curseforge.com/members/okaboo) (French)
+- [BigFab](https://www.curseforge.com/members/BigFab) (Italian)
 
 **If you want to contribute too, you can do so by submitting translations [directly on Curseforge](https://www.curseforge.com/wow/addons/adibags-dragonflight/localization).**
