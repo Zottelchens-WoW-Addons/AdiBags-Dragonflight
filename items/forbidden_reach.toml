@@ -102,7 +102,7 @@ items = [
 
 [leftover_elemental_slime]
 name = "Leftover Elemental Slime"
-description = { _ = "This  item can be found in the Zskera Vault and are used to create the Leftover Elemental Slime Mammoth." }
+description = { _ = "This item can be found in the Zskera Vault and is used to create the Leftover Elemental Slime Mammoth." }
 color = 0x363881
 items = [204352]
 
