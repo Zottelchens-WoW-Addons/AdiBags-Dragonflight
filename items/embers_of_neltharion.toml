@@ -15,6 +15,7 @@ name = "Cavern Currencies"
 description = { _ = "This category contains currencies, used in the Zaralek Cavern." }
 color = 0xFF7800
 items = [
+    202171,
     204715,
     204985,
     205188,
@@ -23,6 +24,7 @@ items = [
     205982,
     205984,
     205686, # Clacking Claw - not really a currency, but a singular item belonging into the cave
+    205962,
 ]
 
 [fyrak_assault]
