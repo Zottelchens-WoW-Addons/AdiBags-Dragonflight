@@ -446,13 +446,14 @@ items = [
 
 [reputation_items]
 name = "Reputation Items"
-description = { _ = "Contains Items which can be directly traded in for reputation/renown, as well as items needed for Wrathion & Sabellian" }
+description = { _ = "Contains Items which can be directly traded in or used for reputation/renown, as well as items needed for Wrathion & Sabellian" }
 color = 0x1EFF00
 items = [
     191251,
     191264,
     192055,
     193201,
+    198790,
     199906,
     200071,
     200093,
@@ -483,6 +484,20 @@ items = [
     202092,
     202093,
     202094,
+    205249,
+    205250,
+    205251,
+    205252,
+    205253,
+    205254,
+    205342,
+    205365,
+    205985,
+    205989,
+    205991,
+    205992,
+    205998,
+    206006,
 ]
 
 [treasure_maps]
