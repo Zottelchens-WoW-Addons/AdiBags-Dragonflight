@@ -100,3 +100,9 @@ name = "Phoenix Wishwing (Pet)"
 description = { _ = "This category contains the items needed to get the Phoenix Wishwing pet." }
 color = 0xFF9600
 items = [199080, 199092, 199097, 199099, 199177, 199203, 202062]
+
+[cavern-clawbbering]
+name = "Cavern Clawbering (Achievement)"
+description = { _ = "This category contains the item needed to get the Cavern Clawbering achievement." }
+color = 0x004FA7
+items = [205686]
