@@ -8,7 +8,7 @@ merged_by_default = false
 name = "Shadowflame Crests"
 description = { _ = "This category contains Shadowflame Crests, which can be used to upgrade gear." }
 color = 0xFF2400
-items = [204075, 204076, 204077, 204078, 204193, 204194, 204195, 204196, 205423]
+items = [204075, 204076, 204077, 204078, 204193, 204194, 204195, 204196, 205423, 205682]
 
 [cavern_currencies]
 name = "Cavern Currencies"
