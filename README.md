@@ -55,12 +55,16 @@
 - Fyrak Assault
 - Embellishments
 
-If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchen/adibags-dragonflight/issues).
+If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchens-WoW-Addons/AdiBags-Dragonflight/issues).
 
 **A special thanks to the following people for their contributions in translating this addon:**
 
-- [RainbowUI](https://www.curseforge.com/members/rainbowui) & [mccma](https://www.curseforge.com/members/mccma) (Traditional Chinese)
+- [g00v3R](https://www.curseforge.com/members/g00v3r) (German)
 - [okaboo](https://www.curseforge.com/members/okaboo) (French)
 - [BigFab](https://www.curseforge.com/members/BigFab) (Italian)
+- [noadtome](https://www.curseforge.com/members/noadtome) (Korean)
+- [cathzinhas](https://www.curseforge.com/members/cathzinhas) & [doctahy](https://www.curseforge.com/members/doctahy) (Brazilian Portuguese)
+- [dadec666](https://www.curseforge.com/members/dadec666) (Russian)
+- [RainbowUI](https://www.curseforge.com/members/rainbowui) & [mccma](https://www.curseforge.com/members/mccma) (Traditional Chinese)
 
 **If you want to contribute too, you can do so by submitting translations [directly on Curseforge](https://www.curseforge.com/wow/addons/adibags-dragonflight/localization).**
