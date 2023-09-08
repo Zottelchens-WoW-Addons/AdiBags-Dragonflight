@@ -544,3 +544,9 @@ name = "Time Rifts"
 description = { _ = "Time Rifts are the part of the content of 10.1.5." }
 color = 0xEEE5D4
 items = [207002, 207030, 207582, 207583, 207584, 208090]
+
+[dreamsurge]
+name = "Dreamsurge"
+description = { _ = "Dreamsurge is the part of the content of 10.1.7." }
+color = 0x60FF00
+items = [207026, 208153, 209419]
