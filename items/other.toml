@@ -547,6 +547,45 @@ items = [207002, 207030, 207582, 207583, 207584, 208090]
 
 [dreamsurge]
 name = "Dreamsurge"
-description = { _ = "Dreamsurge is the part of the content of 10.1.7." }
+description = { _ = "Dreamsurges are the part of the content of 10.1.7." }
 color = 0x60FF00
 items = [207026, 208153, 209419]
+
+[dreambound_armor]
+name = "Dreambound Armor"
+description = { _ = "Dreamsurges are the part of the content of 10.1.7." }
+color = 0x009932
+items = [
+    208913,
+    208890,
+    208891,
+    208892,
+    208893,
+    208894,
+    208895,
+    208896,
+    208897,
+    208898,
+    208899,
+    208900,
+    208901,
+    208902,
+    208903,
+    208904,
+    208905,
+    208906,
+    208907,
+    208908,
+    208909,
+    208910,
+    208911,
+    208912,
+    208914,
+    208915,
+    208916,
+    208917,
+    208918,
+    208919,
+    208920,
+    208921,
+]
