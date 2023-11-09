@@ -553,7 +553,7 @@ items = [207026, 208153, 209419]
 
 [dreambound_armor]
 name = "Dreambound Armor"
-description = { _ = "Dreamsurges are the part of the content of 10.1.7." }
+description = { _ = "Dreambound armor is the catch-up gear of 10.1.7." }
 color = 0x009932
 items = [
     208913,
