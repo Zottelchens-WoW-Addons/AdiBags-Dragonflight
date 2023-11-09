@@ -1,0 +1,11 @@
+category_name = "Guardians of the Dream (10.2)"
+category_color = 0x0B9600
+category_description = { _ = "Items which can be found and used in the Emerald Dream and related zones." }
+mergeable = true
+merged_by_default = false
+
+[dreaming_crests]
+name = "Dreaming Crests"
+description = { _ = "This category contains Dreaming Crests, which can be used to upgrade gear." }
+color = 0x7EFF00
+items = [206960, 206961, 206977, 208393, 208394, 208395, 208568, 208569, 208570]

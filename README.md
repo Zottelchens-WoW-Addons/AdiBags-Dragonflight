@@ -56,6 +56,7 @@
 - Fyrak Assault
 - Embellishments
 - Item Enhancements
+- Dreaming Crests
 
 ## Bugs?
 
