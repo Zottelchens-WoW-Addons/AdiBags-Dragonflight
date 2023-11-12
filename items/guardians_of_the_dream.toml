@@ -9,3 +9,9 @@ name = "Dreaming Crests"
 description = { _ = "This category contains Dreaming Crests, which can be used to upgrade gear." }
 color = 0x7EFF00
 items = [206960, 206961, 206977, 208393, 208394, 208395, 208568, 208569, 208570]
+
+[dreamseeds]
+name = "Dreamseeds"
+description = { _ = "Emerald Bounties are triggered once you plant any dreamseeds at Emerald Bounty mud piles located around the Emerald Dream." }
+color = 0x5FFF57
+items = [208047, 208066, 208067]

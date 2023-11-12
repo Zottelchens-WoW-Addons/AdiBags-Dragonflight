@@ -57,6 +57,7 @@
 - Embellishments
 - Item Enhancements
 - Dreaming Crests
+- Dreamseeds
 
 ## Bugs?
 
