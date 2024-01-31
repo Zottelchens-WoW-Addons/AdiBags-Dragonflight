@@ -310,14 +310,10 @@ items = [
     202278,
     202279,
     202280,
-    203298,
     203299,
     203300,
-    203301,
-    203302,
     203303,
     203304,
-    203305,
     203306,
     203307,
     203308,
@@ -338,7 +334,6 @@ items = [
     203323,
     203324,
     203325,
-    203326,
     203327,
     203328,
     203329,
@@ -605,7 +600,7 @@ items = [
 name = "Treasure Sacks"
 description = { _ = "Treasure Sacks given by the Great Swog, Saviour of all Dragonkind." }
 color = 0xFFF000
-items = [199341, 199342, 199343, 202102, 202103, 202104]
+items = [199341, 199342, 199343, 202102]
 
 [time_rifts]
 name = "Time Rifts"
