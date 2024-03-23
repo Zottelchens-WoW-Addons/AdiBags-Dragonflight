@@ -19,7 +19,7 @@
   - Fishing Lures (disabled by default)
   - Leather - Bait (disabled by default)
   - Herbs - Seeds (disabled by default)
-  - Recipes
+- Recipes
 - Drakewatcher Manusscripts
 - Profession Knowledge Items
 - Elemental Trade Goods
